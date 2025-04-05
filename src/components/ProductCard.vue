@@ -105,6 +105,7 @@ button {
     border-radius: 8px;
     border-style: solid;
     border-color: currentColor;
+    cursor: pointer;
 }
 
 .next-product-button {
